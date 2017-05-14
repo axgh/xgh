@@ -1,6 +1,6 @@
-package net.aaa.cheer.exercise.ch01;
+package net.xgh.cheer.exercise.ch01;
 
-public class 乘法表 {
+public class chengfabiao {
 	 public static void main(String args[]) {
 		 int i, j;
 		 for (i=1; i<=9; i++) {

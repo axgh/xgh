@@ -1,8 +1,8 @@
-package net.aaa.cheer.exercise.ch01;
+package net.xgh.cheer.exercise.ch01;
 
 import java.util.Scanner;
 
-public class 换购 {
+public class huangou {
 	public static void main(String[]args){
 		Scanner sc=new Scanner(System.in);
 		System.out.println("请输入消费金额:");

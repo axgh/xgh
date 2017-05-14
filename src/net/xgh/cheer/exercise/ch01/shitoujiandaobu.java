@@ -1,6 +1,6 @@
-package net.aaa.cheer.exercise.ch01;
+package net.xgh.cheer.exercise.ch01;
 import java.util.Scanner;
-public class 石头剪刀布 {
+public class shitoujiandaobu {
 	public static void main(String[]args){
 		Scanner sc=new Scanner(System.in);
 		while(true){

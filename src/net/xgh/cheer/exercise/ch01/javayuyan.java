@@ -1,6 +1,6 @@
-package net.aaa.cheer.exercise.ch01;
+package net.xgh.cheer.exercise.ch01;
 
-public class 我要学会Java语言 {
+public class javayuyan {
 	public static void main(String[]args){
 	System.out.println("---------");
 	System.out.println("我要学会:");
