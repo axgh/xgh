@@ -1,4 +1,4 @@
-package net.aaa.cheer.smaple.ch03;
+package net.xgh.cheer.smaple.ch03;
 
 public class 你好java {
 	static String s1="你好";

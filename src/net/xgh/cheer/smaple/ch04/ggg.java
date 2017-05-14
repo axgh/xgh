@@ -1,4 +1,4 @@
-package net.aaa.cheer.smaple.ch04;
+package net.xgh.cheer.smaple.ch04;
 
 public class ggg {
 public static void main(String[]args){

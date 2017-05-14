@@ -1,4 +1,4 @@
-package net.aaa.cheer.smaple.ch03;
+package net.xgh.cheer.smaple.ch03;
 import java.util.Scanner;
 public class ifelse {
 	public static void main(String[]args){

@@ -1,4 +1,4 @@
-package net.aaa.cheer.demo.ch01;
+package net.xgh.cheer.demo.ch01;
 
 public class Test2 {
 	public static void main(String[]args){

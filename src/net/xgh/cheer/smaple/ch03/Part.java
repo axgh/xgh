@@ -1,4 +1,4 @@
-package net.aaa.cheer.smaple.ch03;
+package net.xgh.cheer.smaple.ch03;
 
 public class Part {
 	static final double PI=3.14;

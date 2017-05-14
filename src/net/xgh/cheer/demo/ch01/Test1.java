@@ -1,6 +1,6 @@
-package net.aaa.cheer.demo.ch01;
+package net.xgh.cheer.demo.ch01;
 
-public class test1 {
+public class Test1 {
 	public static void main(String[]args){
 	Dog d = new Dog();
 	d.play();
